@@ -187,6 +187,17 @@
 		6BFEB9191C9C70A0003D0B91 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+				);
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Arya Yavari";
@@ -482,6 +493,7 @@
 				6BFEB94B1C9C70A0003D0B91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6BFEB94C1C9C70A0003D0B91 /* Build configuration list for PBXNativeTarget "Swift-Tac-ToeTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +502,7 @@
 				6BFEB94E1C9C70A0003D0B91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6BFEB94F1C9C70A0003D0B91 /* Build configuration list for PBXNativeTarget "Swift-Tac-ToeUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +511,7 @@
 				6BFEB9511C9C70A0003D0B91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
